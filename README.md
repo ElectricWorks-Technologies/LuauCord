@@ -18,6 +18,10 @@ How to Use:
 Important Notes:
 - This project is 100% open source, but you are not allowed to redistribute the model.
 - LuauCord cannot join voice channels or use microphone/camera features.
+- Functions :
+
+LuaCord.AddSlashCommands(commandName, description, func, guildId) guildId is optional !
+LuaCord.login() Call this function to actually log your bot to discord.
 
 License:
 © ElectricFlows & Bijssels. All rights reserved.
