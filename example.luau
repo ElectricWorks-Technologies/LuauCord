@@ -53,7 +53,7 @@ end) -- Interaction exemple
 
 LuaCord.AddSlashCommands("test", "testing", function(interaction)
 	Interaction.reply(interaction, {content = "BLEH"}, false)
-end,"REPLACE_WITH_BOT_ID") -- Create command
+end,"REPLACE_WITH_GUILD_ID_OR_REMOVE_ARGUMENT") -- Create command
 
 LuaCord.login() -- Log in the bot
 
