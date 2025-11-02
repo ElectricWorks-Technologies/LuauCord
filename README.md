@@ -1,5 +1,7 @@
 **LuauCord**
 
+(Experiencing some bugs should be fixed soon)
+
 LuauCord is a Roblox Studio model that allows you to control a Discord bot directly from Roblox Studio.
 
 Created by ElectricFlows & Bijssels, LuauCord lets you manage your bot with full functionality, except for joining voice calls or accessing microphone/camera. It is designed to be simple and easy to use (also because roblox does NOT allow that).
