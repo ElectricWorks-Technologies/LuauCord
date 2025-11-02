@@ -21,6 +21,7 @@ Important Notes:
 - Functions :
 
 LuaCord.AddSlashCommands(commandName, description, func, guildId) guildId is optional !
+
 LuaCord.login() Call this function to actually log your bot to discord.
 
 License:
