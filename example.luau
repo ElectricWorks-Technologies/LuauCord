@@ -7,7 +7,7 @@ local HS = game:GetService("HttpService")
 
 LuaCord.init({
 	Token = "", -- Bot token
-	ApplicationId = "1434197003986010143", -- ApplicationId
+	ApplicationId = "", -- ApplicationId
 	Intents = {
 		Presence = true,
 		ServerMembers = true,
