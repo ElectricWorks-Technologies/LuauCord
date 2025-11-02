@@ -14,6 +14,7 @@ How to Use:
 1. Only modify the Bot server script. Changing other parts of the model may break functionality.
 2. Use the provided example script to learn how the bot works.
 3. Add your bot logic inside the Bot Ready event to ensure your code runs at the correct time.
+4. Ungroup the LuauCord Folder (in server script service)
 
 Important Notes:
 - This project is 100% open source, but you are not allowed to redistribute the model.
